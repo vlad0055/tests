@@ -1,0 +1,45 @@
+.mycontainer{
+	margin-top: 100px;
+	text-align: center;
+	font-size: 1.2em;
+	width: 40%;
+	float: right;
+	opacity: 0.9;
+	
+}
+
+.name{
+	margin-top: 100px;
+	text-align: center;
+	font-size: 3em;
+	width: 40%;
+	float: left;
+	color: #ebebeb;
+	
+}
+body{
+	background: url('https://images8.alphacoders.com/880/thumb-1920-880550.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 950px;
+	
+
+
+}
+.container{
+	overflow: hidden;
+}
+a{
+	text-decoration: none;
+}
+
+.text{
+	clear: both;
+	width: 40%;
+	margin-top: 100px;
+	float: left;
+	font-size: 1.5em;
+	color: #ebebeb;
+	text-align: center;
+
+}
